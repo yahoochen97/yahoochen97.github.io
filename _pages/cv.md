@@ -11,30 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Computer Science, University of Michigan, 2019
+* B.S.E. in Electrical & Computer Engineering, UM-SJTU Joint Institute, Shanghai Jiao Tong University, in 2019.*
+* Ph.D in Data Science, Washington University in St. Louis, 2024 (*expected*)
 
 Publications
 ======
@@ -47,13 +26,32 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Work experience
+======
+* Fall 2019 - now: Graduate Research Assistant
+  * Washington University in St. Louis
+  * Supervisor: Prof. Roman Garnett, Prof. Jacob Montgomery
+
+* Summer 2018: Software Development Intern
+  * Foxit Software, Inc
+
+* Fall 2016 - Summer 2017: Teaching Assistant
+  * UM-SJTU Joint Institute, Shanghai Jiao Tong University
+  * Supervisor: Prof. Horst Hohberger
+
+* Winter 2017: Undergraduate Research Intern
+  * Shanghai Fudan Microelectronics Group Co., Ltd.
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Softwares: C, C++, C#, Python, Java, Javascript, Latex, SQL, Matlab, R
+* Languages: English(professional), Chinese(naive), German(basic)
+
+  
