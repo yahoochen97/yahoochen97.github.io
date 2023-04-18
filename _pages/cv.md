@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of Michigan, 2019
-* B.S.E. in Electrical & Computer Engineering, UM-SJTU Joint Institute, Shanghai Jiao Tong University, in 2019.*
-* Ph.D in Data Science, Washington University in St. Louis, 2024 (*expected*)
+* B.S.E. in Electrical & Computer Engineering, UM-SJTU Joint Institute, Shanghai Jiao Tong University, 2019
+* Ph.D. in Data Science, Washington University in St. Louis, 2024 (*expected*)
 
 Publications
 ======
