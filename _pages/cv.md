@@ -27,7 +27,7 @@ Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Work experience
+Work Experience
 ======
 * Fall 2019 - now: Graduate Research Assistant
   * Washington University in St. Louis
@@ -51,7 +51,7 @@ Teaching
   
 Skills
 ======
-* Softwares: C, C++, C#, Python, Java, Javascript, Latex, SQL, Matlab, R
+* Softwares: C, C++, C#, Python, Java, Javascript, HTML, Latex, SQL, Matlab, R, Linux
 * Languages: English(professional), Chinese(naive), German(basic)
 
   
