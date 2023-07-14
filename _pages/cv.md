@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://github.com/yahoochen97/yahoochen97.github.io/blob/master/files/CV_Yehu_Chen_Jul_2023.pdf)
+[CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Jul_2023.pdf)
 
 Education
 ======
