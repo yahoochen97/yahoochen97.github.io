@@ -23,3 +23,5 @@ Research Interests
 ------
 My research interests lie in the intersection between Bayesian machine learning and political methodology, especially causal inference, psychometrics, experimental design and forecasting. My dissertation thesis is *Advancing Modeling and Inference in Political Science with Gaussian Processes*, where I investigate how to design interpretable machine learning algorithms for tackling core tasks in political science with the family of Gaussian process models, including latent trait measurement, causal inference, marginal effect estimation and its associated data acquisition problem.
 
+You can find my CV [here](https://github.com/yahoochen97/yahoochen97.github.io/blob/master/files/CV_Yehu_Chen_Jul_2023.pdf).
+
