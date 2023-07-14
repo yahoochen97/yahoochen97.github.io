@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](https://indico.cern.ch/event/1223721/sessions/468781/)
+
 Education
 ======
 * B.S. in Computer Science, University of Michigan, 2019
