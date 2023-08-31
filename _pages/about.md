@@ -14,7 +14,9 @@ You can find my CV [here](https://yahoochen97.github.io/files/CV_Yehu_Chen_Jul_2
 
 News
 ------
-* [**New**] Jul, 2023: My recent work "[Generalized budget-constrained conjoint analysis via active learning](https://yahoochen97.github.io/talks/2023-07-talk-4)" was presented at PolMeth XL as a poster.
+* Sept, 2023: "[A Gaussian Process Framework for Social Science Models](https://convention2.allacademic.com/one/apsa/apsa23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2051921&PHPSESSID=6uvgpom82oog4qg0l62418bq0l)" appeared on *Better Models, Better Predictions* panel in APSA 2023. 
+* AUG, 2023: "[A Dynamic, Ordinal Gaussian Process Item Response Theoretic Model](https://convention2.allacademic.com/one/apsa/apsa23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2057133&PHPSESSID=6uvgpom82oog4qg0l62418bq0l)" appeared on *Political Scaling* panel in the Annual Meeting of APSA 2023. 
+* Jul, 2023: "[Generalized budget-constrained conjoint analysis via active learning](https://yahoochen97.github.io/talks/2023-07-talk-4)" was presented at PolMeth XL as a poster.
 * May, 2023: I presented "[Active learning for marginal effect estimation in Gaussian Process preference learning](https://indico.cern.ch/event/1223721/sessions/468781/)" at the 9th Information and Statistics for Nuclear Experiment and Theory workshop as a poster.
 * Apr, 2023: I successfully proposed my Ph.D. dissertation, *Advancing Modeling and Inference in Political Science with Gaussian Processes*.
 * Jan, 2023: "[A Multi-Task Gaussian Process Model for Inferring Time-Varying Treatment Effects in Panel Data](https://proceedings.mlr.press/v206/chen23d.html)" was accepted to AISTATS 2023.
