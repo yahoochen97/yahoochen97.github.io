@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. candidate in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/).  I'm honored to be advised by [Prof. Roman Garnett](https://www.cse.wustl.edu/~garnett/) in the [Department of Computer Science & Engineering](https://cse.wustl.edu/) and [Prof. Jacob Montgomery](https://sites.wustl.edu/montgomery/) in the [Department of Political Science](https://polisci.wustl.edu/). Previously, I received my B.S. in Computer Science at University of Michigan in 2019. I also earned a B.S.E. in Electrical & Computer Engineering at Shanghai Jiao Tong University in 2019, under the UM-SJTU Joint Institute. 
+I am a fifth year Ph.D. candidate in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/).  I'm honored to be advised by [Prof. Roman Garnett](https://www.cse.wustl.edu/~garnett/) in the [Department of Computer Science & Engineering](https://cse.wustl.edu/) and [Prof. Jacob Montgomery](https://sites.wustl.edu/montgomery/) in the [Department of Political Science](https://polisci.wustl.edu/). Previously, I received my B.S. in Computer Science at University of Michigan in 2019. I also earned a B.S.E. in Electrical & Computer Engineering at Shanghai Jiao Tong University in 2019, under the UM-SJTU Joint Institute. 
 
 You can find my CV [here](https://yahoochen97.github.io/files/CV_Yehu_Chen_Jul_2023.pdf).                         
 
@@ -25,5 +25,7 @@ News
 
 Research Interests
 ------
-My research interests lie in the intersection between Bayesian machine learning and political methodology, especially causal inference, psychometrics, experimental design and forecasting. My dissertation thesis is *Advancing Modeling and Inference in Political Science with Gaussian Processes*, where I investigate how to design interpretable machine learning algorithms for tackling core tasks in political science with the family of Gaussian process models, including latent trait measurement, causal inference, marginal effect estimation and its associated data acquisition problem.
+My research interests lie in the intersection between Bayesian machine learning and political methodology, especially causal inference, psychometrics, experimental design and forecasting. My dissertation thesis is *Advancing Modeling and Inference in Political Science with Gaussian Processes*, where I investigate how to design interpretable machine learning algorithms for tackling core tasks in political science such as latent trait measurement, heterogeneous effect estimation and conjoint analysis. 
+
+<!-- His dissertation thesis advances modeling and inference in Political Science with Gaussian Processes, where he applies interpretable machine learning algorithms for tackling core tasks in political science such as latent trait measurement, heterogeneous effect estimation and conjoint analysis. He specializes in causal inference, time series models, adaptive experiment design and active learning. -->
 
