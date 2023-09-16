@@ -25,7 +25,11 @@ News
 
 Research Interests
 ------
-My research interests lie in the intersection between Bayesian machine learning and political methodology, especially causal inference, psychometrics, experimental design and forecasting. My dissertation thesis is *Advancing Modeling and Inference in Political Science with Gaussian Processes*, where I investigate how to design interpretable machine learning algorithms for tackling core tasks in political science such as latent trait measurement, heterogeneous effect estimation and conjoint analysis. 
+
+My research interests encompass a multifaceted intersection of Bayesian machine learning and political methodology. My work spans causal inference, psychometrics, experimental design, election forecasting, and machine learning, contributing to a richer understanding of political behavior and outcomes. My dissertation thesis, which focuses on advancing modeling and inference in Political Science with Gaussian Processes, demonstrates his ability to apply interpretable machine learning algorithms to address complex challenges in political science, including latent trait measurement, heterogeneous effect estimation, and online learning for conjoint analysis.
+
+
+<!-- My research interests lie in the intersection between Bayesian machine learning and political methodology, especially causal inference, psychometrics, experimental design and forecasting. My dissertation thesis is *Advancing Modeling and Inference in Political Science with Gaussian Processes*, where I investigate how to design interpretable machine learning algorithms for tackling core tasks in political science such as latent trait measurement, heterogeneous effect estimation and conjoint analysis.  -->
 
 <!-- His dissertation thesis advances modeling and inference in Political Science with Gaussian Processes, where he applies interpretable machine learning algorithms for tackling core tasks in political science such as latent trait measurement, heterogeneous effect estimation and conjoint analysis. He specializes in causal inference, time series models, adaptive experiment design and active learning. -->
 
