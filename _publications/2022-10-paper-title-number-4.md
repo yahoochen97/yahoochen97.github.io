@@ -4,5 +4,6 @@ collection: publications
 permalink: /publication/2022-10-paper-title-number-4
 excerpt: '**Yehu Chen**, JBrandon Duck-Mayr, Jacob Montgomery and Roman Garnett.'
 date: 2022-10-01
+venue: 'arxiv'
 paperurl: 'https://yahoochen97.github.io/files/GD_GPIRT_AISTATS_v2.pdf'
 ---
