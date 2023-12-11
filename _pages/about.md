@@ -28,8 +28,3 @@ Research Interests
 
 My research interests lie in the intersection of Bayesian machine learning and quantitative methods. My work spans causal inference, psychometrics, optimal treatment design and election forecasting, contributing to a richer understanding of political behavior and outcomes. My dissertation thesis focuses on advancing modeling and inference in Political Science with Gaussian Processes to address complex challenges in the field. I particularly work on improving item response theory as measurement methods, estimation of heterogeneous effects from longitudinal data, and online learning for conjoint analysis.
 
-
-<!-- My research interests lie in the intersection between Bayesian machine learning and political methodology, especially causal inference, psychometrics, experimental design and forecasting. My dissertation thesis is *Advancing Modeling and Inference in Political Science with Gaussian Processes*, where I investigate how to design interpretable machine learning algorithms for tackling core tasks in political science such as latent trait measurement, heterogeneous effect estimation and conjoint analysis.  -->
-
-<!-- His dissertation thesis advances modeling and inference in Political Science with Gaussian Processes, where he applies interpretable machine learning algorithms for tackling core tasks in political science such as latent trait measurement, heterogeneous effect estimation and conjoint analysis. He specializes in causal inference, time series models, adaptive experiment design and active learning. -->
-
