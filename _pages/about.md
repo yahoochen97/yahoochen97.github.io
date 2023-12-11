@@ -21,7 +21,8 @@ News
 * Apr, 2023: I successfully proposed my Ph.D. dissertation, *Advancing Modeling and Inference in Political Science with Gaussian Processes*.
 * Jan, 2023: "[A Multi-Task Gaussian Process Model for Inferring Time-Varying Treatment Effects in Panel Data](https://proceedings.mlr.press/v206/chen23d.html)" was accepted to AISTATS 2023.
 * Jul, 2022: A poster was accepted in the annual Summer Meeting of Society for Political Methodology (2022).
-* Jan 2022: "[Polls, Context, and Time: A Dynamic Hierarchical Bayesian Forecasting Model for US Senate Elections](https://www.cambridge.org/core/journals/political-analysis/article/abs/polls-context-and-time-a-dynamic-hierarchical-bayesian-forecasting-model-for-us-senate-elections/1833074B3BEBC0E36912FBFF3437A974)" was published in Political Analysis.
+* Jan 2021: "[Polls, Context, and Time: A Dynamic Hierarchical Bayesian Forecasting Model for US Senate Elections](https://www.cambridge.org/core/journals/political-analysis/article/abs/polls-context-and-time-a-dynamic-hierarchical-bayesian-forecasting-model-for-us-senate-elections/1833074B3BEBC0E36912FBFF3437A974)" was published in Political Analysis.
+* Aug 2020: "[Compressive Big Data Analytics: An ensemble meta-algorithm for high-dimensional multisource datasets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228520)" was published in PLOS ONE.
 
 Research Interests
 ------
