@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final year Ph.D. candidate in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/).  I'm honored to be advised by [Prof. Roman Garnett](https://www.cse.wustl.edu/~garnett/) in the [Department of Computer Science & Engineering](https://cse.wustl.edu/) and [Prof. Jacob Montgomery](https://sites.wustl.edu/montgomery/) in the [Department of Political Science](https://polisci.wustl.edu/). Previously, I received my B.S. in Computer Science at University of Michigan in 2019. I also earned a B.S.E. in Electrical & Computer Engineering at Shanghai Jiao Tong University in 2019, under the UM-SJTU Joint Institute. 
 
-You can find my CV [here](https://yahoochen97.github.io/files/CV_Yehu_Chen_Jul_2024.pdf).                         
+You can find my [Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Aug_2024.pdf) and [CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Jul_2024.pdf) here.                     
 
 News
 ------
