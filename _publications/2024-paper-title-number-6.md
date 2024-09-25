@@ -1,5 +1,5 @@
 ---
-title: "Idiographic Personality Gaussian Process for Psychological Assessment(*preprint*)"
+title: "Idiographic Personality Gaussian Process for Psychological Assessment"
 collection: publications
 permalink: /publication/2024-paper-title-number-6
 excerpt: '**Yehu Chen**, Muchen Xi, Jacob Montgomery, Joshua Jackson and Roman Garnett.'
