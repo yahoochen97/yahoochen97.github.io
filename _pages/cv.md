@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Aug_2024.pdf) and [CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Jul_2024.pdf)
+[Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Aug_2024.pdf) and [CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Dec_2024.pdf)
 
 Education
 ======
