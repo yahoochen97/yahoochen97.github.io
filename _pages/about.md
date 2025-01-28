@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. candidate in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/).  I'm honored to be advised by [Prof. Roman Garnett](https://www.cse.wustl.edu/~garnett/) in the [Department of Computer Science & Engineering](https://cse.wustl.edu/) and [Prof. Jacob Montgomery](https://sites.wustl.edu/montgomery/) in the [Department of Political Science](https://polisci.wustl.edu/). Previously, I received my B.S. in Computer Science at University of Michigan in 2019. I also earned a B.S.E. in Electrical & Computer Engineering at Shanghai Jiao Tong University in 2019, under the UM-SJTU Joint Institute. 
+I am a final year data science Ph.D. candidate at [WashU Stl], co-advised by Prof. Roman Garnett(CSE) and Prof. Jacob Montgomery(PoliSci). My research interests are computational social science, causal inference and quantitative methods.
 
 You can find my [Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Aug_2024.pdf) and [CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Dec_2024.pdf) here.                     
 
@@ -24,9 +24,3 @@ News
 * Jul, 2022: A poster was accepted in the annual Summer Meeting of Society for Political Methodology (2022).
 * Jan 2021: "[Polls, Context, and Time: A Dynamic Hierarchical Bayesian Forecasting Model for US Senate Elections](https://www.cambridge.org/core/journals/political-analysis/article/abs/polls-context-and-time-a-dynamic-hierarchical-bayesian-forecasting-model-for-us-senate-elections/1833074B3BEBC0E36912FBFF3437A974)" was published in Political Analysis.
 * Aug 2020: "[Compressive Big Data Analytics: An ensemble meta-algorithm for high-dimensional multisource datasets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228520)" was published in PLOS ONE.
-
-Research Interests
-------
-
-My research interests lie in the intersection of Bayesian machine learning and quantitative methods. My work spans causal inference, psychometrics, optimal treatment design and election forecasting, contributing to a richer understanding of political behavior and outcomes. My dissertation thesis focuses on advancing modeling and inference in Political Science with Gaussian Processes to address complex challenges in the field. I particularly study heterogeneous treatmenet effect estimation from longitudinal data, non-parametric item response theory for political measurement, adaptive experimentation for virtual experiments and election forecasting.
-
