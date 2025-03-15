@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final year data science Ph.D. candidate at [WashU](https://datasciences.wustl.edu/), co-advised by Prof. Roman Garnett (CSE) and Prof. Jacob Montgomery (PoliSci). My research interests are computational social science, causal inference and quantitative methods.
 
-You can find my [Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Aug_2024.pdf) and [CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Dec_2024.pdf) here.                     
+You can find my [Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Mar_2025.pdf) and [CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Dec_2024.pdf) here.                     
 
 News
 ------
