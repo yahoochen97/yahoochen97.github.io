@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Computer Science, University of Michigan, 2019
 * B.S.E. in Electrical & Computer Engineering, UM-SJTU Joint Institute, Shanghai Jiao Tong University, 2019
-* Ph.D. in Data Science, Washington University in St. Louis, 2024 (*expected*)
+* Ph.D. in Data Science, Washington University in St. Louis, 2025
 
 Publications
 ======
@@ -31,7 +31,10 @@ Presentations
 
 Work Experience
 ======
-* Fall 2019 - now: Graduate Research Assistant
+* Aug 2025 - present: Machine Learning Engineer
+  * Chewy
+  
+* Fall 2019 - Aug 2025: Graduate Research Assistant
   * Washington University in St. Louis
   * Supervisor: Prof. Roman Garnett, Prof. Jacob Montgomery
 

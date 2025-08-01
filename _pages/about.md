@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year data science Ph.D. candidate at [WashU](https://datasciences.wustl.edu/), co-advised by Prof. Roman Garnett (CSE) and Prof. Jacob Montgomery (PoliSci). My research interests are computational social science, causal inference and quantitative methods.
+I am a machine learning engineer at [Chewy](https://www.chewy.com/). I obtained my Ph.D. in computational data science from [WashU](https://datasciences.wustl.edu/). My research interests are computational social science, applied machine learning, causal inference and quantitative methods.
 
 You can find my [Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Mar_2025.pdf) and [CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Dec_2024.pdf) here.                     
 
 News
 ------
-* [**New**] Feb, 2025: I gave a talk "[Personalized Personality Modeling with Gaussian Processes: Insights from a New Longitudinal Dataset](https://turing-ds4mh.github.io/meetings.html)" at "[Data Science for Mental Health at Alan Turing Institute](https://turing-ds4mh.github.io/index.html)".
-* [**New**] Sept, 2024: "[Idiographic Personality Gaussian Process for Psychological Assessment](https://yahoochen97.github.io/files/IPGP_NIPS24_preprint.pdf)" was accepted to Neurips 2024.
+* [**New**] Aug, 2025: I joined [Chewy](https://www.chewy.com/) as a machine learning engineer.
+* * [**New**] May, 2025: I successfully defended my dissertation thesis.
+* Feb, 2025: I gave a talk "[Personalized Personality Modeling with Gaussian Processes: Insights from a New Longitudinal Dataset](https://turing-ds4mh.github.io/meetings.html)" at "[Data Science for Mental Health at Alan Turing Institute](https://turing-ds4mh.github.io/index.html)".
+* Sept, 2024: "[Idiographic Personality Gaussian Process for Psychological Assessment](https://yahoochen97.github.io/files/IPGP_NIPS24_preprint.pdf)" was accepted to Neurips 2024.
 * Sept, 2023: "[A Gaussian Process Framework for Social Science Models](https://convention2.allacademic.com/one/apsa/apsa23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2051921&PHPSESSID=6uvgpom82oog4qg0l62418bq0l)" appeared on *Better Models, Better Predictions* panel in APSA 2023. 
 * AUG, 2023: "[A Dynamic, Ordinal Gaussian Process Item Response Theoretic Model](https://convention2.allacademic.com/one/apsa/apsa23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2057133&PHPSESSID=6uvgpom82oog4qg0l62418bq0l)" appeared on *Political Scaling* panel in the Annual Meeting of APSA 2023. 
 * Jul, 2023: "[Generalized budget-constrained conjoint analysis via active learning](https://yahoochen97.github.io/talks/2023-07-talk-4)" was presented at PolMeth XL as a poster.
