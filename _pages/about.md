@@ -15,7 +15,7 @@ You can find my [Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Ma
 News
 ------
 * [**New**] Aug, 2025: I joined [Chewy](https://www.chewy.com/) as a machine learning engineer.
-* * [**New**] May, 2025: I successfully defended my dissertation thesis.
+* [**New**] May, 2025: I successfully defended my dissertation thesis.
 * Feb, 2025: I gave a talk "[Personalized Personality Modeling with Gaussian Processes: Insights from a New Longitudinal Dataset](https://turing-ds4mh.github.io/meetings.html)" at "[Data Science for Mental Health at Alan Turing Institute](https://turing-ds4mh.github.io/index.html)".
 * Sept, 2024: "[Idiographic Personality Gaussian Process for Psychological Assessment](https://yahoochen97.github.io/files/IPGP_NIPS24_preprint.pdf)" was accepted to Neurips 2024.
 * Sept, 2023: "[A Gaussian Process Framework for Social Science Models](https://convention2.allacademic.com/one/apsa/apsa23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2051921&PHPSESSID=6uvgpom82oog4qg0l62418bq0l)" appeared on *Better Models, Better Predictions* panel in APSA 2023. 
