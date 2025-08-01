@@ -10,7 +10,7 @@ redirect_from:
 
 I am a machine learning engineer at [Chewy](https://www.chewy.com/). I obtained my Ph.D. in computational data science from [WashU](https://datasciences.wustl.edu/). My research interests are computational social science, applied machine learning, causal inference and quantitative methods.
 
-You can find my [Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Mar_2025.pdf) and [CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Dec_2024.pdf) here.                     
+You can find my [Resume](https://yahoochen97.github.io/files/Resume_Yehu_Chen_Aug_2025.pdf) and [CV](https://yahoochen97.github.io/files/CV_Yehu_Chen_Dec_2024.pdf) here.                     
 
 News
 ------
