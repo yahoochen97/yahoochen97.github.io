@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yehu Chen"
 title_separator          : "-"
 name                     : &name "Yehu Chen"
-description              : &description "SWE AIML at Google | Ph.D. in DS @ WashU"
+description              : &description "SWE AIML @ Google | Ph.D from WashU"
 url                      : "https://yahoochen97.github.io" # the base hostname & protocol for your site e.g. "https://chenyehu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yahoochen97.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yehu Chen"
   avatar           : "me_headshot.png"
-  bio              : "SWE AIML at Google | Ph.D. in DS @ WashU"
+  bio              : "SWE AIML @ Google | Ph.D from WashU"
   location         : "Seattle"
   employer         :
   pubmed           : 
