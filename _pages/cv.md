@@ -31,7 +31,10 @@ Presentations
 
 Work Experience
 ======
-* Aug 2025 - present: Machine Learning Engineer
+* Nov 2025 - present: Software Engineer, AIML
+  * Google Youtube Ads
+  
+* Aug 2025 - Oct 2025: Machine Learning Engineer
   * Chewy
   
 * Fall 2019 - Aug 2025: Graduate Research Assistant
